@@ -164,4 +164,4 @@ function sketch(p5) {
 new p5_1.default(sketch, document.body);
 
 },{}]},{},["QCba"], null)
-//# sourceMappingURL=/src.db27679c.js.map
+//# sourceMappingURL=/p5-frontend/src.db27679c.js.map
