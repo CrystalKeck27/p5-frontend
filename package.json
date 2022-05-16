@@ -1,0 +1,21 @@
+{
+  "name": "p5-game-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html --open --port 80",
+    "build": "parcel build src/index.html --no-minify"
+  },
+  "author": "Crystal Keck",
+  "license": "ISC",
+  "dependencies": {
+    "@types/p5": "^1.4.2",
+    "p5": "^1.4.1",
+    "parcel": "^2.5.0",
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.6.4"
+  }
+}
